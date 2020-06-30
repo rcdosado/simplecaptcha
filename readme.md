@@ -27,6 +27,11 @@ $captcha2->generateImage();
 ?>
 
 ```
+## Running the demo
+
+1. clone this repo. go to the cloned directory 
+2. type `php -S localhost:8000` in your terminal
+3. open your browser, go to localhost:8000
 
 ## Development setup
 
@@ -52,7 +57,7 @@ composer update
 
 ## Meta
 
-Roy Cyril Dosado – [@keyboardcaper](https://twitter.com/keyboardcaper) – rcdosado@gmail.com
+Roy Cyril Dosado â€“ [@keyboardcaper](https://twitter.com/keyboardcaper) â€“ rcdosado@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
