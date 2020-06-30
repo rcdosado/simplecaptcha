@@ -52,9 +52,9 @@ composer update
 
 ## Meta
 
-Roy Cyril Dosado – [@YourTwitter](https://twitter.com/keyboardcaper) – rcdosado@gmail.com
+Roy Cyril Dosado – [@keyboardcaper](https://twitter.com/keyboardcaper) – rcdosado@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/rcdosado/github-link](https://github.com/rcdosado/)
+[https://github.com/rcdosado/simplecaptcha](https://github.com/rcdosado/simplecaptcha/)
 
